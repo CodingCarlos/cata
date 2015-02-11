@@ -4,6 +4,6 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <p>
-        Qué decir de la cerveza, y sus magníficas propiedades... Curativas.</p>
+    Qué decir de la cerveza, y sus magníficas propiedades... Curativas.</p>
 </asp:Content>
 
