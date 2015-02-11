@@ -1,0 +1,45 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .nuevoEstilo1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Image ID="Image1" runat="server" />
+        &nbsp;Catas!
+        <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" Width="100%">
+            <DynamicMenuStyle Width="100%" />
+            <Items>
+                <asp:MenuItem Text="Portada" Value="portada"></asp:MenuItem>
+                <asp:MenuItem Text="Catas" Value="catas">
+                    <asp:MenuItem Text="Iniciacion" Value="catasIniciacion"></asp:MenuItem>
+                    <asp:MenuItem Text="Cerveza" Value="catasCerveza"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="Historia" Value="historia"></asp:MenuItem>
+                <asp:MenuItem Text="Beneficios" Value="beneficios"></asp:MenuItem>
+            </Items>
+            <StaticMenuItemStyle Font-Strikeout="False" HorizontalPadding="30px" />
+        </asp:Menu>
+    </div>
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div>
+        (c) Catas 2015 - Todos los derechos reservados</div>
+    </form>
+</body>
+</html>
