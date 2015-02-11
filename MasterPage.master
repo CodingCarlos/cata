@@ -22,13 +22,13 @@
         <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" Width="100%">
             <DynamicMenuStyle Width="100%" />
             <Items>
-                <asp:MenuItem Text="Portada" Value="portada"></asp:MenuItem>
-                <asp:MenuItem Text="Catas" Value="catas">
-                    <asp:MenuItem Text="Iniciacion" Value="catasIniciacion"></asp:MenuItem>
-                    <asp:MenuItem Text="Cerveza" Value="catasCerveza"></asp:MenuItem>
+                <asp:MenuItem Text="Portada" Value="portada" NavigateUrl="~/portada.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Catas" Value="catas" NavigateUrl="~/catas.aspx">
+                    <asp:MenuItem Text="Iniciacion" Value="catasIniciacion" NavigateUrl="~/iniciacion.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Cerveza" Value="catasCerveza" NavigateUrl="~/cerveza.aspx"></asp:MenuItem>
                 </asp:MenuItem>
-                <asp:MenuItem Text="Historia" Value="historia"></asp:MenuItem>
-                <asp:MenuItem Text="Beneficios" Value="beneficios"></asp:MenuItem>
+                <asp:MenuItem Text="Historia" Value="historia" NavigateUrl="~/historia.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Beneficios" Value="beneficios" NavigateUrl="~/beneficios.aspx"></asp:MenuItem>
             </Items>
             <StaticMenuItemStyle Font-Strikeout="False" HorizontalPadding="30px" />
         </asp:Menu>
