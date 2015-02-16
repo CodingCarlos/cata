@@ -1,0 +1,117 @@
+/* 	CSS Stylesheet Catas. 
+ *
+ * 	@author Carlos Hernandez
+ *	@author Danna Davila
+ */
+
+@font-face {
+    font-family: "homestead";
+    src: url('../font/Homestead-Inline.ttf');
+}
+
+@font-face {
+    font-family: "mensch";
+    src: url('../font/mensch.ttf');
+}
+
+@font-face {
+    font-family: "raleway";
+    src: url('../font/Raleway-Regular.ttf');
+}
+
+
+html, body {
+	font-family: 'raleway';
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+body {
+	background: url('../img/bodega.jpg') no-repeat fixed;
+	background-size: cover;
+}
+
+div#jarra {
+	background-color: rgba(255,255,255,.74);
+	border-radius: 14px;
+	-webkit-box-shadow: 0 0 50px 10px rgba(0,0,0,1);
+	box-shadow: 0 0 50px 10px rgba(0,0,0,1);
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	color: #24150E;
+	font-family: 'raleway';
+	font-size: 1.75em;
+	height: 300px;
+	left: 50%;
+	margin-left: -300px;
+	margin-top: -150px;
+	padding: 26px 32px;
+	position: absolute;
+	text-align: center;
+	top: 50%;
+	width: 600px;
+}
+
+	.entrar {
+		background-color: #8A7E6D;
+		border-radius: 7px;
+		font-family: 'mensch';
+		font-size: 1.4em;
+		color: #24150E;
+		margin-top: 24px;
+		padding: 2px 12px;
+	}
+
+
+div#barril {
+	background-color: rgba(255,255,255,.74);
+	border-radius: 14px;
+	-webkit-box-shadow: 0 0 50px 10px rgba(0,0,0,1);
+	box-shadow: 0 0 50px 10px rgba(0,0,0,1);
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	color: #24150E;
+	font-family: 'raleway';
+	font-size: 1.75em;
+	height: auto;
+	margin-left: 5%;
+	margin-top: 80px;
+	/* min-height: 80%; */
+	padding: 26px 32px;
+	position: absolute;
+	width: 90%;
+}
+
+div#espuma {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	height: 175px;
+	width: 100%;
+}
+
+#Menu1 {
+	float: right !important;
+	font-family: 'mensch';
+	font-size: 1.4em;
+	margin: 100px 5px 0px 0px;
+	text-align: left;
+}
+
+	#Menu1 a {
+		color: #19572E;
+		text-decoration: none;
+	}
+	#Menu1 a:hover {
+		color: #21332C;
+	}
+
+div#birra {
+	padding: 12px 24px;
+}
+
+div#levadura {
+	color: #573E19;
+	text-align: center;
+}

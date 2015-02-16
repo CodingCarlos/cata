@@ -5,43 +5,47 @@
         .auto-style1 {
             width: 100%;
         }
-        .auto-style2 {
-            width: 45px;
-        }
-    </style>
+        </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <p>
-    <br />
-    HOLA SOY UNA PORTADAAAAAA</p>
     <table class="auto-style1">
         <tr>
-            <td class="auto-style2" rowspan="2">
-        <asp:Image ID="Image2" runat="server" Height="158px" Width="401px" />
+            <td rowspan="2" width="50%" style="text-align:center;">
+        <asp:Image ID="Image2" runat="server" Height="365px" Width="541px" ImageUrl="~/img/cata.jpg" />
             </td>
             <td style="text-align: center">
-        <asp:Image ID="Image3" runat="server" Height="80px" Width="346px" />
+                <a href="catas.aspx">
+        <asp:Image ID="Image3" runat="server" Height="101px" Width="406px" ImageUrl="~/img/nuestras-catas.png" />
+                </a>
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-        <asp:Image ID="Image4" runat="server" Height="80px" Width="346px" />
+                <a href="beneficios.aspx">
+        <asp:Image ID="Image4" runat="server" Height="101px" Width="406px" ImageUrl="~/img/por-que-cerveza.png" />
+                </a>
             </td>
         </tr>
     </table>
 
     <br />
+    
+    HOLA SOY UNA PORTADAAAAAA
+    <br />
     <table class="auto-style1">
         <tr>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image5" runat="server" Height="89px" Width="241px" />
-            </td>
+        <asp:Image ID="Image5" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
+                <br />
+                Cervezas rubias</td>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image6" runat="server" Height="89px" Width="241px" />
-            </td>
+        <asp:Image ID="Image8" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
+                <br />
+                Cervezas rubias</td>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image7" runat="server" Height="89px" Width="241px" />
-            </td>
+        <asp:Image ID="Image9" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
+                <br />
+                Cervezas rubias</td>
         </tr>
     </table>
 </asp:Content>

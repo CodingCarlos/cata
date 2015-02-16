@@ -12,34 +12,46 @@
         .nuevoEstilo1 {
             text-align: center;
         }
+        #menu {
+        }
     </style>
+    
+    <link href="css/style.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-        <asp:Image ID="Image1" runat="server" />
-        &nbsp;Catas!
-        <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" Width="100%">
-            <DynamicMenuStyle Width="100%" />
-            <Items>
-                <asp:MenuItem Text="Portada" Value="portada" NavigateUrl="~/portada.aspx"></asp:MenuItem>
-                <asp:MenuItem Text="Catas" Value="catas" NavigateUrl="~/catas.aspx">
-                    <asp:MenuItem Text="Iniciacion" Value="catasIniciacion" NavigateUrl="~/iniciacion.aspx"></asp:MenuItem>
-                    <asp:MenuItem Text="Cerveza" Value="catasCerveza" NavigateUrl="~/cerveza.aspx"></asp:MenuItem>
-                </asp:MenuItem>
-                <asp:MenuItem Text="Historia" Value="historia" NavigateUrl="~/historia.aspx"></asp:MenuItem>
-                <asp:MenuItem Text="Beneficios" Value="beneficios" NavigateUrl="~/beneficios.aspx"></asp:MenuItem>
-            </Items>
-            <StaticMenuItemStyle Font-Strikeout="False" HorizontalPadding="30px" />
-        </asp:Menu>
-    </div>
-    <div>
-        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+    <div id="barril">
+        <div id="espuma">
+
+            <a href="portada.aspx">
+                <asp:Image ID="Image1" runat="server" ImageUrl="~/img/logo.png" Width="540px" />
+            </a>
+
+            <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+                <DynamicMenuItemStyle VerticalPadding="10px" />
+                <DynamicMenuStyle Width="100%" />
+                <Items>
+                    <asp:MenuItem Text="Portada" Value="portada" NavigateUrl="~/portada.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Catas" Value="catas" NavigateUrl="~/catas.aspx">
+                        <asp:MenuItem Text="Iniciacion" Value="catasIniciacion" NavigateUrl="~/iniciacion.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Cerveza" Value="catasCerveza" NavigateUrl="~/cerveza.aspx"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Historia" Value="historia" NavigateUrl="~/historia.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Beneficios" Value="beneficios" NavigateUrl="~/beneficios.aspx"></asp:MenuItem>
+                </Items>
+                <StaticMenuItemStyle Font-Strikeout="False" HorizontalPadding="30px" />
+            </asp:Menu>
+        </div>
+        <div id="birra">
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
         
-        </asp:ContentPlaceHolder>
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="levadura">
+            &copy; Catas 2015 - Todos los derechos reservados
+
+        </div>
     </div>
-    <div>
-        (c) Catas 2015 - Todos los derechos reservados</div>
     </form>
 </body>
 </html>
