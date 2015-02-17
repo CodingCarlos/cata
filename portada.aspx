@@ -35,17 +35,17 @@
     <table class="auto-style1">
         <tr>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image5" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
+        <asp:Image ID="Image5" runat="server" Height="181px" Width="257px" ImageUrl="~/img/iniciacion.jpg" />
                 <br />
-                Cervezas rubias</td>
+                Iniciación a la cerveza</td>
             <td class="nuevoEstilo1">
         <asp:Image ID="Image8" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
                 <br />
                 Cervezas rubias</td>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image9" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
+        <asp:Image ID="Image9" runat="server" Height="181px" Width="257px" ImageUrl="~/img/negra.jpg" />
                 <br />
-                Cervezas rubias</td>
+                Cervezas negras</td>
         </tr>
     </table>
 </asp:Content>

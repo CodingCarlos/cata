@@ -24,7 +24,7 @@
         <div id="espuma">
 
             <a href="portada.aspx">
-                <asp:Image ID="Image1" runat="server" ImageUrl="~/img/logo.png" Width="540px" />
+                <asp:Image ID="Image1" runat="server" ImageUrl="~/img/logo.png" Width="36%" />
             </a>
 
             <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">

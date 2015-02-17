@@ -95,7 +95,7 @@ div#espuma {
 	float: right !important;
 	font-family: 'mensch';
 	font-size: 1.4em;
-	margin: 100px 5px 0px 0px;
+	margin: 7% 5px 0px 0px;
 	text-align: left;
 }
 
@@ -115,3 +115,6 @@ div#levadura {
 	color: #573E19;
 	text-align: center;
 }
+    .titulo{
+         font-size: 1.7em;
+    }
