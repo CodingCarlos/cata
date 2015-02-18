@@ -14,6 +14,10 @@
         }
         #menu {
         }
+        #Menu1 a.dynamic {
+            background: rgba(255,255,255,.74) !important;
+            border-radius: 6px;
+        }
     </style>
     
     <link href="css/style.css" rel="stylesheet" />
@@ -28,7 +32,7 @@
             </a>
 
             <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
-                <DynamicMenuItemStyle VerticalPadding="10px" />
+                <DynamicMenuItemStyle VerticalPadding="10px" BackColor="White" BorderStyle="Groove" HorizontalPadding="10px" Width="155px" />
                 <DynamicMenuStyle Width="100%" />
                 <Items>
                     <asp:MenuItem Text="Portada" Value="portada" NavigateUrl="~/portada.aspx"></asp:MenuItem>
