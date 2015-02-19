@@ -14,37 +14,46 @@
     <p class="titulo">
         Historia</p>
     <div id="lipsum">
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id rhoncus mi. Phasellus tincidunt mauris id libero tristique fermentum in sed dui. Sed vitae justo ut nisi efficitur tincidunt. Vestibulum commodo posuere turpis, quis ultricies eros ullamcorper sed. Etiam sit amet turpis quam. Nulla tincidunt justo a congue ultrices. Nunc quis ultricies magna. Phasellus quis purus tortor. Curabitur sodales leo erat, in pretium magna rutrum et. Proin maximus augue sed nibh eleifend scelerisque. Nunc sit amet faucibus nulla. Duis sed augue turpis.
-        </p>
-        <p>
-            Nulla condimentum sed ipsum a eleifend. Morbi ut risus cursus, ornare leo ac, posuere felis. Proin interdum et augue ut interdum. Donec imperdiet erat ligula, at rutrum elit consequat nec. Phasellus nec ex lorem. Quisque vel hendrerit nibh, id placerat neque. Nullam porttitor velit at mauris suscipit, eu suscipit sem suscipit. Donec volutpat metus ac ipsum porta, vel mollis purus blandit.
-        </p>
-        <p>
-            In tristique leo erat, a congue lacus sodales sed. Aliquam erat volutpat. Phasellus vulputate lobortis leo, sed porttitor arcu laoreet et. Mauris in leo eget quam eleifend pretium. Etiam tristique venenatis vestibulum. Aliquam mattis luctus tempor. Vestibulum in erat quis metus semper venenatis. Fusce leo ante, accumsan non lectus id, efficitur tristique justo. In tincidunt odio sit amet nibh pulvinar tristique. Nullam at nulla nibh. Pellentesque finibus enim eu facilisis congue. Nulla facilisi. Morbi et tincidunt felis. Sed id diam congue, lacinia eros at, placerat nunc. Aenean iaculis enim ultrices consequat eleifend.
-        </p>
-        <p>
-            Vestibulum a ex gravida ex faucibus pellentesque at vitae libero. Cras pellentesque quis lacus nec imperdiet. Nam elementum tortor eu orci viverra ultrices. Ut facilisis elementum lacinia. Curabitur faucibus volutpat elit, et vestibulum est porttitor eget. Sed consequat aliquam eros, sit amet scelerisque augue cursus efficitur. Praesent semper consectetur tortor quis pretium. Quisque eget iaculis nibh, quis maximus erat. Donec ullamcorper lacus nec elit faucibus, ut porta libero ultricies. Phasellus pharetra semper purus id euismod. Sed nec orci lectus. Pellentesque maximus congue lectus, vitae condimentum leo bibendum in.
-        </p>
-        <p>
-            Fusce vel viverra velit, non pulvinar lectus. Aliquam erat volutpat. Nullam pretium sodales nibh, vel dignissim neque tristique eget. Vestibulum commodo enim sit amet est finibus iaculis. Praesent blandit ullamcorper vestibulum. Nulla ac condimentum sem. Curabitur ac ultrices metus. Mauris sapien lacus, faucibus ac convallis eu, posuere ut lectus. Donec dictum imperdiet sapien eget tincidunt. Maecenas sit amet dui a erat suscipit maximus. Etiam malesuada nisi at ipsum porta sollicitudin. Phasellus sem tellus, aliquet eget hendrerit sed, sagittis eget metus.
-        </p>
+        <p>La cerveza es tan antigua como nuestra civilización. Se cree que su origen está unido a los primeros asentamientos humanos hacia el 9.000 A.C., unidos al desarrollo de la agricultura y al abandono del estilo de vida nómade. Pero fue en Sumeria (Mesopotamia) por el 4.000 A.C. donde se tiene registro en unas tablas de arcilla de las primeras menciones de la cerveza. Por esto se cree que los sumerios fueron los primeros en fermentar granos como la cebada, en principio por casualidad, dejando un tipo de pan afuera en la lluvia, y que luego con el calor y levaduras salvajes fermentó. Y luego ya lo hacían fermentar en tinajas de agua.</p>
+
+        <p>Mesopotamia luego se convirtió en el Imperio Babilónico, donde a pesar del cambio de cultura la cerveza siguió siendo una bebida muy apreciada, también porque se consideraba un alimento. Los babilonios desarrollaron el arte de hacer cerveza a un nivel superior, creando alrededor de 20 tipos de recetas diferentes de cerveza. De hecho la primera receta de cerveza de la que se tiene registro está escrita en el Código de Hamurabi.</p>
+
+        <p>Pero la presencia de la cerveza en la antiguedad no se limitó solo a Mesopotamia, los Egipcios también desarrollaron la cerveza, de una forma parecida. A partir de una masa de pan sin hornear que dejaban fermentar en agua y que gracias a la temperaturas y a la acción de levaduras salvajes, se convertía en cerveza. Le llamaban "zythum" o vino de cebada. Y la perfumaban con canela, miel y a veces las mezclaban con frutos, como dátiles.</p>
+
+        <p>Alrededor del mundo también habían otras bebidas parecidas a la cerveza que se fermentaban a partir de granos. Por ejemplo, en el imperio inca hacían la "chica" a partir del maíz, los chinos hacían un tipo de cerveza llamado "Kiu" en base a trigo, cebada, mijo y arroz, e incluso en la antigua Britania elaboraban cerveza a base de trigo malteado antes de que los romanos introdujeran la cebada. Dicen que el amor por la cerveza, influyó en que los distintos pueblos nómades dejaran su estilo de vida nómade, en favor de una existencia basada en la agricultura.</p>
+
+        <p> Bajo el Imperio Romano, se dice que la cerveza vivio una época "oscura" opacada por el vino, que se considerada la bebida de los dioses. Pero en realidad la cerveza estaba viva y disfrutando de buena salud en los países del norte de Europa que rodeaban al imperio, donde cultivar uvas era mucho más difícil que obtener granos. Allí la cerveza era la bebida del pueblo y quizás, por el éxito que tenía en estas regiones donde habitaban los pueblos bárbaros, cuya tribu más importante eran los germánicos (ubicados al norte de Europa, Alemania y sur de Francia), es que esta bebida quedó estereotipada como la preferida de los hombres "rudos".</p>
+
+        <p>En la Edad Media, fueron los monjes de los países del norte de Europa, como Bélgica, quienes perfeccionaron el proceso de elaboración, incorporando el uso del lúpulo, planta que le otorga el característico sabor amargo a la cerveza y ayuda a su conservación. Luego esta receta se popularizó por todo el mundo. Por el tipo de clima frío, otros países del norte de Europa como Alemania e Inglaterra se convirtieron a su vez en grandes productores de cerveza. Entre los siglos XIV y XVI surigeron las primeras fábricas de cerveza, entre las que destacan las de Hamburgo y Zittau. A fines del siglo XV, el duque de Baviera Guillermo IV promulgó la primera ley de pureza de la cerveza alemana, que establecía para su elaboración el uso de malta de cebada, agua, lúpulo y levadura, nada más.</p>
+
+        <p>Luego en el siglo XVIII, con la revolución industrial, llega la época de oro de la cerveza donde se masifica gracias a la incorporación de la máquina de vapor a la industria cervecera y al descubrimiento de la técnica de elaboración en frío. Esta etapa finaliza a mitad del s.XIX cuando Luis Pasteur, descubre la levadura de alta fermentación, lo que posibilitó el control preciso de la transformación del azúcar en alcohol. Así los productores de cerveza ya no dependían de la levadura salvaje que se transportaba en el aire para la fermentación y pudieron desarrollar cervezas de mayor calidad y variedad. Durante este siglo, los cerveceros checos y alemanes, desarrollaron una cerveza de mejor aspecto, cervezas filtradas y más claras, como las cervezas Lager y las Pilsen checas.</p>
+
+        <p>Durante el siglo XX comenzó la produccion en masa de cerveza, donde a veces la cantidad privilegia a la calidad. En la actualidad, los principales países productores son Estados Unidos, Alemania, Rusia, Reino Unido, Brasil y China.</p>
     </div>
      <br />
     <table class="auto-style1" width="100%">
         <tr>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image5" runat="server" Height="181px" Width="257px" ImageUrl="~/img/negra.jpg" />
-                <br />
-                Cervezas negras</td>
+                <a href="negras.aspx">
+                    <asp:Image ID="Image5" runat="server" Height="181px" Width="257px" ImageUrl="~/img/negra.jpg" />
+                    <br />
+                    Cervezas negras
+                </a>
+            </td>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image8" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
-                <br />
-                Cervezas rubias</td>
+                <a href="rubias.aspx">
+                    <asp:Image ID="Image8" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
+                    <br />
+                    Cervezas rubias
+                </a>
+            </td>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image9" runat="server" Height="181px" Width="257px" ImageUrl="~/img/tostada.jpg" />
-                <br />
-                Cervezas tostadas</td>
+                <a href="tostadas.aspx">
+                    <asp:Image ID="Image9" runat="server" Height="181px" Width="257px" ImageUrl="~/img/tostada.jpg" />
+                    <br />
+                    Cervezas tostadas
+                </a>
+            </td>
         </tr>
     </table>
 </asp:Content>

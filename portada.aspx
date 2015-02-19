@@ -30,22 +30,31 @@
 
     <br />
     
-    HOLA SOY UNA PORTADAAAAAA
+    Bienvenido al paraíso del bebedor de cerveza, santuario del pastafari devoto, escuela del novato y, ante todo, local de catas. Organizamos catas de cerveza tanto para iniciarse en este mundo como para abrir nuevos horizontes en nuestro paladar. Date un paseo por nuestras catas y disfruta de los distintos paquetes que ofrecemos.
     <br />
     <table class="auto-style1">
         <tr>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image5" runat="server" Height="181px" Width="257px" ImageUrl="~/img/iniciacion.jpg" />
-                <br />
-                Iniciación a la cerveza</td>
+                <a href="iniciacion.aspx">
+                    <asp:Image ID="Image5" runat="server" Height="181px" Width="257px" ImageUrl="~/img/iniciacion.jpg" />
+                    <br />
+                    Iniciación a la cerveza
+                </a>
+            </td>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image8" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
-                <br />
-                Cervezas rubias</td>
+                <a href="rubias.aspx">
+                    <asp:Image ID="Image8" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
+                    <br />
+                    Cervezas rubias
+                </a>
+            </td>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image9" runat="server" Height="181px" Width="257px" ImageUrl="~/img/negra.jpg" />
-                <br />
-                Cervezas negras</td>
+                <a href="negras.aspx">
+                    <asp:Image ID="Image9" runat="server" Height="181px" Width="257px" ImageUrl="~/img/negra.jpg" />
+                    <br />
+                    Cervezas negras
+                </a>
+            </td>
         </tr>
     </table>
 </asp:Content>

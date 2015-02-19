@@ -7,19 +7,19 @@
         <p style="font-size: 1.7em">
             Beneficios</p>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id rhoncus mi. Phasellus tincidunt mauris id libero tristique fermentum in sed dui. Sed vitae justo ut nisi efficitur tincidunt. Vestibulum commodo posuere turpis, quis ultricies eros ullamcorper sed. Etiam sit amet turpis quam. Nulla tincidunt justo a congue ultrices. Nunc quis ultricies magna. Phasellus quis purus tortor. Curabitur sodales leo erat, in pretium magna rutrum et. Proin maximus augue sed nibh eleifend scelerisque. Nunc sit amet faucibus nulla. Duis sed augue turpis.
+            Pese a la creencia popular, la cerveza es una bebida con multitud de efectos terapéuticos sobre el organismo. Dada su composición, hay miles de razones que demuestran categóricamente que consumir una cerveza diaria aportará múltiples beneficios al organismo. Incluso diversos estudios demuestran que, debido a su contenido en cereales, hidrata de forma más eficiente que el agua, puesto que ciertos componentes facilitan la absorición de los líquidos por parte de nuestro cuerpo.
         </p>
         <p>
-            Nulla condimentum sed ipsum a eleifend. Morbi ut risus cursus, ornare leo ac, posuere felis. Proin interdum et augue ut interdum. Donec imperdiet erat ligula, at rutrum elit consequat nec. Phasellus nec ex lorem. Quisque vel hendrerit nibh, id placerat neque. Nullam porttitor velit at mauris suscipit, eu suscipit sem suscipit. Donec volutpat metus ac ipsum porta, vel mollis purus blandit.
+            La cerveza contiene altos niveles de silicio, que está vinculado a la salud de los huesos. En un estudio realizado en 2009 en la Universidad de Tufts y en otros centros, los hombres y las mujeres de más edad que bebían una o dos bebidas al día tenían una mayor densidad ósea. Sin embargo, el consumo de más de dos bebidas se relacionó con un mayor riesgo de fracturas. También tiene un contenido bajo de sodio. Por esto, una cerveza al día puede ayudar a mantener la enfermedad de Alzheimer y otras demencias en la raya. La Organización Mundial de la Salud (OMS) recomienda que la ingesta sea inferior a los dos gramos diarios. Una caña contiene nueve miligramos de sodio.
         </p>
         <p>
-            In tristique leo erat, a congue lacus sodales sed. Aliquam erat volutpat. Phasellus vulputate lobortis leo, sed porttitor arcu laoreet et. Mauris in leo eget quam eleifend pretium. Etiam tristique venenatis vestibulum. Aliquam mattis luctus tempor. Vestibulum in erat quis metus semper venenatis. Fusce leo ante, accumsan non lectus id, efficitur tristique justo. In tincidunt odio sit amet nibh pulvinar tristique. Nullam at nulla nibh. Pellentesque finibus enim eu facilisis congue. Nulla facilisi. Morbi et tincidunt felis. Sed id diam congue, lacinia eros at, placerat nunc. Aenean iaculis enim ultrices consequat eleifend.
+            Más de 100 estudios han demostrado que el consumo moderado de cerveza disminuye el riesgo de ataques cardíacos y muerte por enfermedad cardiovascular en un 25 a 40 por ciento. Una o dos cervezas al día puede ayudar a elevar los niveles de HDL, el llamado “colesterol bueno” que ayuda a prevenir que las arterias se tapen. Además, un estudio realizado en Finlandia encontró que hombres que bebían una botella de cerveza al día redujeron su riesgo de desarrollar cálculos renales en un 40 por ciento. Una teoría es que el alto contenido de agua de la cerveza ayudó a mantener los riñones trabajando o el lúpulo en la cerveza ayuda a evitar la formación de piedras.
         </p>
         <p>
-            Vestibulum a ex gravida ex faucibus pellentesque at vitae libero. Cras pellentesque quis lacus nec imperdiet. Nam elementum tortor eu orci viverra ultrices. Ut facilisis elementum lacinia. Curabitur faucibus volutpat elit, et vestibulum est porttitor eget. Sed consequat aliquam eros, sit amet scelerisque augue cursus efficitur. Praesent semper consectetur tortor quis pretium. Quisque eget iaculis nibh, quis maximus erat. Donec ullamcorper lacus nec elit faucibus, ut porta libero ultricies. Phasellus pharetra semper purus id euismod. Sed nec orci lectus. Pellentesque maximus congue lectus, vitae condimentum leo bibendum in.
+            Un estudio holandés encontró que los participantes bebedores de cerveza tenían 30 por ciento de los niveles más altos de vitamina B6. La cerveza también contiene vitamina B12 y ácido fólico. La cerveza ayuda, también, a prevenir los coágulos de sangre que bloquean el flujo de sangre al corazón, cuello y cerebro. Además, investigadores encontraron que el alcohol aumenta la sensibilidad a la insulina, lo que ayuda a proteger contra la diabetes. Los bebedores moderados de cerveza tienen menos probabilidades de desarrollar presión arterial alta, un factor de riesgo para un ataque al corazón.
         </p>
         <p>
-            Fusce vel viverra velit, non pulvinar lectus. Aliquam erat volutpat. Nullam pretium sodales nibh, vel dignissim neque tristique eget. Vestibulum commodo enim sit amet est finibus iaculis. Praesent blandit ullamcorper vestibulum. Nulla ac condimentum sem. Curabitur ac ultrices metus. Mauris sapien lacus, faucibus ac convallis eu, posuere ut lectus. Donec dictum imperdiet sapien eget tincidunt. Maecenas sit amet dui a erat suscipit maximus. Etiam malesuada nisi at ipsum porta sollicitudin. Phasellus sem tellus, aliquet eget hendrerit sed, sagittis eget metus.
+            Con todo esto, concluímos que el consumo moderado de cerveza previene cerca de 26.000 muertes al año, debido a las menores tasas de enfermedades del corazón, derrames cerebrales y diabetes.
         </p>
     </div>
     <p>
@@ -28,17 +28,26 @@
     <table class="auto-style1" width="100%">
         <tr>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image5" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
-                <br />
-                Cervezas rubias</td>
+                <a href="rubias.aspx">
+                    <asp:Image ID="Image5" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
+                    <br />
+                    Cervezas rubias
+                </a>
+            </td>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image8" runat="server" Height="181px" Width="257px" ImageUrl="~/img/negra.jpg" />
-                <br />
-                Cervezas negras</td>
+                <a href="negras.aspx">
+                    <asp:Image ID="Image8" runat="server" Height="181px" Width="257px" ImageUrl="~/img/negra.jpg" />
+                    <br />
+                    Cervezas negras
+                </a>
+            </td>
             <td class="nuevoEstilo1">
-        <asp:Image ID="Image9" runat="server" Height="181px" Width="257px" ImageUrl="~/img/tostada.jpg" />
-                <br />
-                Cervezas tostadas</td>
+                <a href="tostadas.aspx">
+                    <asp:Image ID="Image9" runat="server" Height="181px" Width="257px" ImageUrl="~/img/tostada.jpg" />
+                    <br />
+                    Cervezas tostadas
+                </a>
+            </td>
         </tr>
     </table>
 </asp:Content>
