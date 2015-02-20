@@ -28,10 +28,10 @@
         <div id="espuma">
 
             <a href="portada.aspx">
-                <asp:Image ID="Image1" runat="server" ImageUrl="~/img/logo.png" Width="36%" />
+                <asp:Image ID="Image1" runat="server" ImageUrl="~/img/logo.png" Width="36%" CssClass="button" />
             </a>
 
-            <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+            <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" StaticEnableDefaultPopOutImage="False">
                 <DynamicMenuItemStyle VerticalPadding="10px" BackColor="White" BorderStyle="Groove" HorizontalPadding="10px" Width="155px" />
                 <DynamicMenuStyle Width="100%" />
                 <Items>

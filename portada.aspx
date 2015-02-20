@@ -11,18 +11,18 @@
     <table class="auto-style1">
         <tr>
             <td rowspan="2" width="50%" style="text-align:center;">
-        <asp:Image ID="Image2" runat="server" Height="365px" Width="541px" ImageUrl="~/img/cata.jpg" />
+                <asp:Image ID="Image2" runat="server" Height="365px" Width="541px" ImageUrl="~/img/cata.jpg" CssClass="button" />
             </td>
             <td style="text-align: center">
                 <a href="catas.aspx">
-        <asp:Image ID="Image3" runat="server" Height="101px" Width="406px" ImageUrl="~/img/nuestras-catas.png" />
+                    <asp:Image ID="Image3" runat="server" Height="101px" Width="406px" ImageUrl="~/img/nuestras-catas.png" CssClass="button" />
                 </a>
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
                 <a href="beneficios.aspx">
-        <asp:Image ID="Image4" runat="server" Height="101px" Width="406px" ImageUrl="~/img/por-que-cerveza.png" />
+                    <asp:Image ID="Image4" runat="server" Height="101px" Width="406px" ImageUrl="~/img/por-que-cerveza.png" CssClass="button" />
                 </a>
             </td>
         </tr>
@@ -31,7 +31,7 @@
     <br />
     
     Bienvenido al paraíso del bebedor de cerveza, santuario del pastafari devoto, escuela del novato y, ante todo, local de catas. Organizamos catas de cerveza tanto para iniciarse en este mundo como para abrir nuevos horizontes en nuestro paladar. Date un paseo por nuestras catas y disfruta de los distintos paquetes que ofrecemos.
-    <br />
+    <br />&nbsp; <br />
     <table class="auto-style1">
         <tr>
             <td class="nuevoEstilo1">

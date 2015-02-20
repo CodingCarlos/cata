@@ -6,7 +6,7 @@
     <p class="titulo" style="font-size: 1.7em">
         Cata de negras:</p>
     <p>
-        <asp:Image ID="Image9" runat="server" Height="217px" ImageUrl="~/img/rubias.png" style="float: left" Width="270px" />
+        <asp:Image ID="Image9" runat="server" Height="217px" CssClass="inset" ImageUrl="~/img/rubias.png" style="float: left; margin-top: 0px;" Width="270px" />
         Cervezas negras, de diferentes espumas y desnsidades. Una experiencia que no deberías dejar pasar por nada del mundo. Muy recomendable para gente curiosa y amantes de la cerveza amarga.</p>
 </asp:Content>
 

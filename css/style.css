@@ -33,6 +33,40 @@ body {
 	background-size: cover;
 }
 
+a {
+	color: #19572E;
+	text-decoration: none;
+}
+a:hover {
+	color: #21332C;
+}
+
+
+img.inset {
+    margin: 24px;
+}
+
+img:not(.button) {
+    border: 9px solid white;
+    border-radius: 3px;
+}
+
+a img:not(.button) {
+    -webkit-transition: -webkit-transform 0.2s ease-out;
+    -moz-transition: -moz-transform 0.2s ease-out;
+    -o-transition-transform: 0.2s ease-out;
+    -ms-transition: -ms-transform 0.2s ease-out;
+    transition: transform 0.2s ease-out;
+}
+
+a img:not(.button):hover {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
 div#jarra {
 	background-color: rgba(255,255,255,.74);
 	border-radius: 14px;

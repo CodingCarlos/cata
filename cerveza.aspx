@@ -17,7 +17,7 @@
         <tr>
             <td class="auto-style2">
                 <a href="rubias.aspx">
-        <asp:Image ID="Image6" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" />
+        <asp:Image ID="Image6" runat="server" Height="181px" Width="257px" ImageUrl="~/img/rubias.png" CssClass="inset" />
                     </a>
                 </td>
             <td><a href="iniciacion.aspx">Rubias:</a><br />
@@ -26,7 +26,7 @@
         <tr>
             <td class="auto-style2">
                 <a href="negras.aspx">
-        <asp:Image ID="Image7" runat="server" Height="181px" Width="257px" ImageUrl="~/img/negra.jpg" />
+        <asp:Image ID="Image7" runat="server" Height="181px" Width="257px" ImageUrl="~/img/negra.jpg" CssClass="inset" />
                     </a>
                 </td>
             <td><a href="negras.aspx">Negras:</a><br />
@@ -35,7 +35,7 @@
         <tr>
             <td class="auto-style2">
                 <a href="tostadas.aspx">
-        <asp:Image ID="Image8" runat="server" Height="181px" Width="257px" ImageUrl="~/img/tostada.jpg" />
+        <asp:Image ID="Image8" runat="server" Height="181px" Width="257px" ImageUrl="~/img/tostada.jpg" CssClass="inset" />
                     </a>
                 </td>
             <td><a href="tostadas.aspx">Tostadas:</a><br />
